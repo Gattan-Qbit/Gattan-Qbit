@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gattan-Qbit
+- 👀 I’m interested c#
+- 🌱 I’m currently learning ml.net with c#
